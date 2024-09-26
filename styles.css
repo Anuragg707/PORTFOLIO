@@ -111,7 +111,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #ffffff;
+  background-color: #82a1f3;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -349,7 +349,7 @@ img {
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
-  padding: 2rem 0;
+  padding: 0.2rem 0;
 }
 .footer__title {
   font-size: 2rem;
